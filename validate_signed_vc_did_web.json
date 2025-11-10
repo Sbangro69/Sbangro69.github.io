@@ -1,0 +1,39 @@
+{
+  "verifiableCredential": {
+    "proof": {
+      "type": "JsonWebKey2020",
+      "created": "2025-11-10T16:38:48.987Z",
+      "proofPurpose": "assertionMethod",
+      "verificationMethod": "did:web:example.com:participant:myorg",
+      "jws": "eyJhbGciOiJSUzI1NiIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..bRnQgxr_8HyspNtsAVC2dbXPGjGbxBp9Wul28YBnFTn9Vexo75oz9wOm4ypI6ELanU4E9BDZZQMoohZfGsVLRtHpWBJ7D_Ml2ms0veqlEtnZiUPd0_GRvTYy5ZsG9tK7KRIcNeER0z6qtXCLJXd6BE6L0BlT29JDduTqlz8RGSm0bKSbkPVjJxzyzoVoS0BxIr7DxbRUKHifBAtt-na85VlAPaUGxVOxdOsh5EdvtnMwYnwAHThdsJRQk2M94OR7-V9bZdrOj76K9Q5SH8tuVeiJuyq-jGnl2vnLNoW1-HOkf26gpMcPKHaPX9ozsXqCOEH83PpbZSO5RvK5oPTLfA"
+    },
+    "@context": [
+      "https://www.w3.org/2018/credentials/v1",
+      "https://registry.gaia-med.org/api/trusted-shape-registry/v1/shapes/jsonld/trustframework#"
+    ],
+    "type": [
+      "VerifiableCredential"
+    ],
+    "id": "https://example.com/.well-known/vc/credential-001",
+    "issuer": "did:web:example.com:participant:myorg",
+    "issuanceDate": "2025-11-10T16:38:48.921Z",
+    "credentialSubject": {
+      "type": "gx:LegalParticipant",
+      "id": "did:web:example.com:participant:myorg",
+      "gx:legalName": "My Organization",
+      "gx:emailAddress": "contact@example.com",
+      "gx:phoneNumber": "123-456-7890",
+      "gx:legalRegistrationNumber": {
+        "gx:vatID": "IT123456789"
+      },
+      "gx:headquarterAddress": {
+        "gx:countrySubdivisionCode": "IT-RM"
+      },
+      "gx:legalAddress": {
+        "gx:countrySubdivisionCode": "IT-RM"
+      },
+      "gx-terms-and-conditions:gaiaxTermsAndConditions": "70c1d713215f95191a11d38fe2341faed27d19e083917bc8732ca4fea4976700"
+    }
+  },
+  "skipSignatureCheck": false
+}
