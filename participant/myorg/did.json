@@ -11,9 +11,9 @@
       "controller": "did:web:Sbangro69.github.io:participant:myorg",
       "publicKeyJwk": {
         "e": "AQAB",
-        "kid": "u5ADsN2CvXLwm0expCakO-k9ba2t4CYMCJ57KUfhzaY",
+        "kid": "WKSuSBTyu2eTLjg2Ig9Pi_xFGqm-3l9ekYIE1D5J5g4",
         "kty": "RSA",
-        "n": "t7RQb4I6M2TRzNcPypHfrymj89TjYZci-MrcSipiOo2uYFm5z3np0MmHvsF9PAxZWuO2RYEYXrMcwjtFSq4-wDsgwSGTiU0ofhsNqJc0ZTs3bMekH4PmPUxvzeHhgx--nPikb0H9NlSMYqgXOd_irez_QdzKmaOyF-0nhLuE767VgdkCU1a9VSKqBQMSqWo7w3i4VBepXhpLalW3m4l3SoFRG6cY7dFEoHSjpW_59f0as7IAQFHmUhCQaJw0msJXIqHZjV7fmZJbe8sxymaB8SB88m-z2_5SyiSP_ivy4ZgXFeISaq5sOzRRZtO2cB8mHEJIuLdYbF2BrWHPDFpcPw"
+        "n": "wFWWQ8GDZkOjcudJAzM_uufpGg_ZXxYn9C52k0hYD--W2VDHLziVgwb7o74NwMlI70yQ8mmbKSdCvSWzUuBFK6_t9LuOZgw94RSgxqFGjMZzSbp2TGIee8B3lAgQPADbZlCxN9mOEMreqmRcfDueotn90AR686f2rk_eW45o5sro-s9HzdoxR2rgj2eesla5qjejYRmnGlIz7Ga7xDfwU086ssK9lEm4hJJvAQbY82TBdOULe0nAL4F33bhKLaQqDAKj7XkA9DiPnNiae_hvKK_G59Y0ny2H5bE7cZwSPm1rumGnmwX-wWfvY43Z_J8OdaSMMhCfklOHE6nZYEhgTQ"
       }
     }
   ],
