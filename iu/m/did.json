@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:Sbangro69.github.io:iu:m",
+  "verificationMethod": [
+    {
+      "id": "did:web:Sbangro69.github.io:iu:m#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:Sbangro69.github.io:iu:m",
+      "publicKeyJwk": {
+        "e": "AQAB",
+        "kid": "v2Dz1aoiWeCaNhy07zFS-trS8ShKvBfEhJe99SJJjy4",
+        "kty": "RSA",
+        "n": "rK1LOSEBllsYP8jmSEv9QTcz6Pms1U_fSr8uQVvbvml1OiIIsCQbbKtwVbu3xBmzloLrRCzpDH7covKb1qZnCiYHZYgdiytLAzpv24BTez6bg6lkTV2nW3k1-NU2PUqyj9xneyTe8nlwdvs5cqqNl8yzdsEOhHG5XzzSwzqyQLF-V9IEq34wFucq1VCwl3haze4F1PhwJrI8RF8zVyGAnPTGpYvz4h6AltG_5ixwWOR9D1tejtYNogp0k1gEiiFQr8DR7wUCWoiPpfo_l3F2JuLPYzESR2VXEQSwP_nKuDaUklUCNW0_tUGsw7XxDrTEaZJjw1ndHAR-0G2oW2k_4w"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:Sbangro69.github.io:iu:m#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:Sbangro69.github.io:iu:m#key-1"
+  ]
+}
