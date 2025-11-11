@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:Sbangro69.githib.io\u001b[D\u001b[D\u001b[D\u001b[D\u001bub:esempio:vc",
+  "verificationMethod": [
+    {
+      "id": "did:web:Sbangro69.githib.io\u001b[D\u001b[D\u001b[D\u001b[D\u001bub:esempio:vc#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:Sbangro69.githib.io\u001b[D\u001b[D\u001b[D\u001b[D\u001bub:esempio:vc",
+      "publicKeyJwk": {
+        "e": "AQAB",
+        "kid": "nzCroCz0R6kl805NEBXe4gfMkVxtEi8XRzIwGPEGx4I",
+        "kty": "RSA",
+        "n": "4Lvd8gYfWDyvrB1z8LE2Qbiz4YiCtx4FUmlnM0VO-MmtOZHdUqH_Vcb6J3cnEfqkjyDDK7SZV-X7VUD8TdH1vvpR21OJGQdh9i3MeFK1agoHboAoY2rkE-Ggjglf-_7N1qw-jUC3VjzsuZnMk9jcjW7nvt1rrbd3LWCHK5pybMsQXEtfjhH-5L3gl0l3739Jr9EuGviGpIRA8BRMHSOtGnPbTEXYzKqUHxiwytPqe2P4OECAij28l9LkDgMRd_FmF9Xq-TnyouNxW9QHby8naVKSoOz5Zb9qSEH3yAQd_JqQMUnXhBwW394falOH2rfsuzOmN4qHKkX04NZs64KmvQ"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:Sbangro69.githib.io\u001b[D\u001b[D\u001b[D\u001b[D\u001bub:esempio:vc#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:Sbangro69.githib.io\u001b[D\u001b[D\u001b[D\u001b[D\u001bub:esempio:vc#key-1"
+  ]
+}
