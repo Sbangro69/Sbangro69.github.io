@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:Sbangro69.github.io\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D:i:m",
+  "verificationMethod": [
+    {
+      "id": "did:web:Sbangro69.github.io\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D:i:m#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:Sbangro69.github.io\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D:i:m",
+      "publicKeyJwk": {
+        "e": "AQAB",
+        "kid": "tMNTthH5xb2AqWN4rF5BvLzijb7kUQQkEqIzct4WlWo",
+        "kty": "RSA",
+        "n": "vc6evCz8YEv9igEGVTWrmwaiDa6k7Fr8RxNrrkOH4tgeJHpG2dsHxxcjBxIXumjBZGZX-L_lUDsjMAK-0Ve4wa8746ShtLcBKerzKc06hrz_NiUiHJGKTlC1kw5D22pgGIRmI6eME1WCeaauJc_tZYJTt4sz7zbeKcDRUEuNCYNqSBHodsMobtZe3Nb3ycGSlF5wweZ6TuiEQrejUJUPMyN06mTxN8poqz9ZByAEU0Hs107DJa22ZWJaZFDCuPUm5e3AlfpcKKHYGmIJ8ikZit2BSlQFwHKR4sEmSnSywsJza5Swxf0qGK7IvAUUE1YhTVRXvkdJBQ2izzGQ3yzW0Q"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:Sbangro69.github.io\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D:i:m#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:Sbangro69.github.io\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D\u001b[1;2D:i:m#key-1"
+  ]
+}
