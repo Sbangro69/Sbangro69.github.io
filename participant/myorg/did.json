@@ -11,9 +11,9 @@
       "controller": "did:web:Sbangro69.github.io:participant:myorg",
       "publicKeyJwk": {
         "e": "AQAB",
-        "kid": "8mQwbT3Lhjnv0lgJ1XeXRnqedOa4oSWxO6tF5rh-p2M",
+        "kid": "_EOilEcRS7F5AghCFaji_ICiDACUi9G4ZIpd8xhs03U",
         "kty": "RSA",
-        "n": "sZNPcub0aHyu9e9ggSTO8p82Fnsv_WYYekRcyRhcuypUBntH-HND4nu8bRrc3XB_QfF5X4gMu7tAu93Lp9eb87nt6IKF3qqsaGB-KzS3AMIRkGFbDo47ub1Guuu1tifSNV3qZJKgUy9h-SwyODsR_Dq0MVCC5Ylzu0lhzDLcOzIZV-CdTX09ZtR8V4FC8mZ7xiAeR9bz5dtWb48Z9m50EiHCR6QD5re6AdwjRMpU6pJn_qsJT4oQzOaT-LsD4c_CUTtBjsbUKN7tp55aLSopAr4E-eNAb1-ZXbfKm_BM8shZzpi7ejPca8HcJc1JOWchIK-WPJYy2i2jHnG6IAe1iQ"
+        "n": "2NtxbVj5YHI-aN9tfsPunpm_ZOMmMzwB4igzqyNosURQNhYxWQo2rKZ6ZvImrDck2jdVQqsiYBYpIkks0lv4a-3SGra7is-ajO7BgIY34MmJaR7s3s4AWphPEB4tVA5Hv9cZE8otX-ptgKSAUalYny4Ci0D_UCuu7iEyuD6dRtwiEsNqVm-Qs6KvQDkaE-XC4dYXimcEzScmktSHbXTGuN-wk-aKxLZbUd3qMHWN-16gvTpvL8xoYTNylFM3M3230aBuq4LFzTTC51tYLxy49Y1CJeDndly4dGpE93YLQD1575LuAa5M0wo7eqNmyksooW3X4mG51J0ZwF1B4wL1Gw"
       }
     }
   ],
