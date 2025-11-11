@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:Sbangro69.github.io:arrivederci:grz",
+  "verificationMethod": [
+    {
+      "id": "did:web:Sbangro69.github.io:arrivederci:grz#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:Sbangro69.github.io:arrivederci:grz",
+      "publicKeyJwk": {
+        "e": "AQAB",
+        "kid": "hENZbsXLHawGiBrQTcS5pJ8eS2d74FHUCgwVB9QmrA4",
+        "kty": "RSA",
+        "n": "4VAjpxvmSNWvhw9CIGOWh-i-dCNTUKpt0GdxgUa4CPzOtqVIOnB9eQTz80oYlPSw2lPgZElsytOcX-56VUDE5CR8cujzChQ1EJ56k-6fUqp--G94pWsLKhE8jL1li-gIRFMR72SKMPYCioIoDhOHNLmrI65DM_vbmt45oPUPdiZqBRA4hnja_iyVrcOJmEeA_IGOZ_mexI7Msb0J3FGaj8uLeqJawCDBDGzY_nUf0S8EGOMWvs_zk8tCmTwZHBmgFIlJCzrlSHEHfd8UUvAE4ppIWBoDkpEJwNv_tl46aCDQlo7T15MwhdGxtBMMbG8KcOPM59lnrNMTaL_CwSBr0w"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:Sbangro69.github.io:arrivederci:grz#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:Sbangro69.github.io:arrivederci:grz#key-1"
+  ]
+}
