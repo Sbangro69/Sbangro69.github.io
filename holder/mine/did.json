@@ -3,24 +3,24 @@
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/suites/jws-2020/v1"
   ],
-  "id": "did:web:carlo.org:holder:mine",
+  "id": "did:web:Sbangro69.github.io:holder:mine",
   "verificationMethod": [
     {
-      "id": "did:web:carlo.org:holder:mine#key-1",
+      "id": "did:web:Sbangro69.github.io:holder:mine#key-1",
       "type": "JsonWebKey2020",
-      "controller": "did:web:carlo.org:holder:mine",
+      "controller": "did:web:Sbangro69.github.io:holder:mine",
       "publicKeyJwk": {
         "e": "AQAB",
-        "kid": "NguIOH2Q7bVb_VLFMAohq4vEeJuxsYv0vECDTZoiHeQ",
+        "kid": "fpBL6uOEYlbT6u3iJg16xRZnKMw7js7jI9xjiKLpuTY",
         "kty": "RSA",
-        "n": "pH0PiZ0Jc-IjY-1xRrHLX4CHugFHBdFhtFYyCr1568gi1ybZJGw9sEESQbZSJOZqGeNYYFa4ndqlDGClkarxEBqvYB2ClxDVjVe13znBOdI_6I2rz8ovTCU-iIKjT3UWVu2SZIBm_HYJs_ox0nflBDon5RyTsAnMWoPrSRmhJZ-v67kT92ik-wFJP40X0j9zqvY6TJNH_GwqBXmHn72OlN-4txN0U-HPv3j1vMhzJ8BaHNB5SbZ4n095w2E0IqEYzWH5TyZn8ovQaajbXIDJy909r9XJPU5FmRQ_3OLJsOOmkEEcJ8nyO_S8fAdxcT1-VrXcPZizi9YCwIg0ZdOsMQ"
+        "n": "rBRI2wEF9xylw9Uh2olu9D2CXZLHXLsfvaJVZsXdTThf2oGGwGk7aP3wrJwZ74-GUFZaSHvZPY-OsTd27k5REam8OiMp9VTtRhmz7mJ7F88MilSKehq3O1wbOM3IKsJ7gu4wkAPhwlFuhmXNYBpYSTC37pyooGiHohIoDwrHlU_bmOrSj-VJBVr2jFiTiAQnm_N6DjWLcc3uMwHn68lKX4_iXuOR0DhlzxYYpHxUOYeXU3mm3tRmX2DZOqdNxGFBGI3Vk9IEkQV6PYVcI-JJ0iUKuwAMmP1nuL0Dq_A3VNDZsjWviqLZEF8Y8ojDwt7_MJUY4hsBTAXGqqHRIoONIw"
       }
     }
   ],
   "authentication": [
-    "did:web:carlo.org:holder:mine#key-1"
+    "did:web:Sbangro69.github.io:holder:mine#key-1"
   ],
   "assertionMethod": [
-    "did:web:carlo.org:holder:mine#key-1"
+    "did:web:Sbangro69.github.io:holder:mine#key-1"
   ]
 }
