@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:Sbangro69.github.io:capra:panca",
+  "verificationMethod": [
+    {
+      "id": "did:web:Sbangro69.github.io:capra:panca#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:Sbangro69.github.io:capra:panca",
+      "publicKeyJwk": {
+        "e": "AQAB",
+        "kid": "RpHSatVeKnRdGZ9bhMLqlvZ3pqE_CSR9FGFYvRbOdtE",
+        "kty": "RSA",
+        "n": "7CNXmDAyM2QOC80GNx6CxfzkvYgRCg_wDQJlmHnVHa_CJuwkLBVpl3eEiyCXlXPzY7M3DjomOQnMC_HPw8_s9g_JM4XAh3uLdJoG1F8hWEuVXawY53zModEWxEXoBgCJmgTjynXTDZbl3SpTO6Kx9po-Jhz47INt4eMk1Nrgfltnitp2-maYGqHKFgZoOW1y_nksRW0zU08iokrjSM7EuwSGhpteNGabJxHf1szLdOvR5c7uOaEvuG2VXW-Cf_ALa_61AIbuENKuRHyaaPKfbBbtok8p46vkKZN88KdWIJiyv5tPRAJwg49Bhe8ICkq1oFnNs7uaah3e0EmeooG23Q"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:Sbangro69.github.io:capra:panca#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:Sbangro69.github.io:capra:panca#key-1"
+  ]
+}
