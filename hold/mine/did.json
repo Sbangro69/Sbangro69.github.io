@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:Sbangro69.github.io:hold:mine",
+  "verificationMethod": [
+    {
+      "id": "did:web:Sbangro69.github.io:hold:mine#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:Sbangro69.github.io:hold:mine",
+      "publicKeyJwk": {
+        "e": "AQAB",
+        "kid": "lG24ya3IaZ8XRQ3KTKadaqTVbPaCJ-vQu_Cf7H5bpKs",
+        "kty": "RSA",
+        "n": "kzihF6h5k52g8e3rtLM_4ZRW-HCkUX3ys2YD9Iyodkwbr_jiA0uV6Fk5bBjuoJ1EjYa9gy5dZQsAK4p92Nw8xyegIl8MvEkBwlA0NECzQIQeOz_p6kC5BiaE5MCGfw3ErFH6o-N1IUO52L5AhHXBLop-ds84JkOHiMMc1peizPMYujIkJy4Z_F-cDnLU6PvWjsyz9bCJEspLrjEWQ_fZA0yHwBFS_ntiTu1lTCJLT2Nai1ZGWIwHekQJZ47IYiUtPuUkiFkID_MiHRNSw0RTPzv1l0c9ac5M-8I5UyQNf7jk_et05ByHjnmWAnnhfcPKcfctyS60rmIREz1BOwIplw"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:Sbangro69.github.io:hold:mine#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:Sbangro69.github.io:hold:mine#key-1"
+  ]
+}
