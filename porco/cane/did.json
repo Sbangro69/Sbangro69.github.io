@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:Sbangro69.github.io:porco:cane",
+  "verificationMethod": [
+    {
+      "id": "did:web:Sbangro69.github.io:porco:cane#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:Sbangro69.github.io:porco:cane",
+      "publicKeyJwk": {
+        "e": "AQAB",
+        "kid": "URf8YDWtQuNHYuwFD9eYBTe7IA5iPeoVMYc42gst4pU",
+        "kty": "RSA",
+        "n": "2h41rPYzNSU9R00T4K31QcAVEPrbAEUw_FO8B_rxLXOcYsJl3OT_T4wGNXrKTzJf3zZRL5KvIadTgZMofweuhjrWr3wBbXvfIG_0TdWZ68y5a7g-tRhR1WPK5hzOcpC9rJ13yZlQSwcsi_ycuuMByb8VE_gdHkLQB2Il7eiBdZIp3674vcz4KUyGM2BlZBEsRO4awY84ENy7KG_WL_5cyCxR6u60J3gfsljFqX6apyydprEossy-b2biqRd8cxhtQSFEMKKQ9Pl6RwqrpzjIA4ii6nFsXfprFAKCBEBlfd2eNgQ2DWuGf7q0PKNfENspHb_TNN3LZIpavWUS6xaOcw"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:Sbangro69.github.io:porco:cane#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:Sbangro69.github.io:porco:cane#key-1"
+  ]
+}
