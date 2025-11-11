@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:Sbangro69.github.io:provola:agerola",
+  "verificationMethod": [
+    {
+      "id": "did:web:Sbangro69.github.io:provola:agerola#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:Sbangro69.github.io:provola:agerola",
+      "publicKeyJwk": {
+        "e": "AQAB",
+        "kid": "BHG_nhTCjV5SaoPhoFIBJVDTH9k0VBp0TeIvL_TDSHw",
+        "kty": "RSA",
+        "n": "zZRic5osoqENdNJIx2E4HuJA-7ug0mxdZ8TgKKmcsKtS26i9uEbJ2lbrLekAppFDVDUTJM4mQaXCU3-mblhhVQNlsTi3aNOvh7DElWjz8UFLTfjBUBK4Zi5zcvbJ5XrXJ0UIfuALVc5xHVA5x8PhM2Caz-YFn4L4__gTSvLRb1NdOvHxV-TkuTOaBvm-hEL9UfCMOqQN9kRuBWGDUvoOj0-_ZmUeI_Hee4YnTW7m_mX72vSA7hs_URN_8_TdbQrmZEVt4Xmm3EGkX7J4geiC3FKSsQ7QdW88jpdfT3GHqrItOIy33-3MRsa4K6Rq74F1fjrmf12O0NwnCOnT8lzHBw"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:Sbangro69.github.io:provola:agerola#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:Sbangro69.github.io:provola:agerola#key-1"
+  ]
+}
