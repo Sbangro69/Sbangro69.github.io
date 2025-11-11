@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:Sbangro69.github.io:suvvia:andiamo",
+  "verificationMethod": [
+    {
+      "id": "did:web:Sbangro69.github.io:suvvia:andiamo#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:Sbangro69.github.io:suvvia:andiamo",
+      "publicKeyJwk": {
+        "e": "AQAB",
+        "kid": "4QNGUMch2uZkNtI0cVm_HQ2A_w9vzmKWuGQKceQCwDY",
+        "kty": "RSA",
+        "n": "usuevM4VKmV-veene0WoQf80GNPtJmLV91zIkx7w2LFyPHeByyRt2YPVnMCHu-bD43Nsx2IwNvT-SogHfKXr7Jsg2jdJvFWJhevHiROudk1g2Ns9t2AqhARotQD-jPe3t_PONio95r4AZaXNeovt8avXYMqUihCfCuIbbdHrdQB6pzrEQOv55JrQ1o2RiuLguZN53mOipooCNtvYnZvTwdZ15AuxIk_wwoM4h1lXA60vj4QX4Sg7VmT82SKeDs-q-Fbr9wJdyHBmDea71rmYwAF-Ic3fBg-oJuNE5n99l4JpjsOzslulCnxqGNrXlezVDTeGBl3fIvFwGPHFKx_1cQ"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:Sbangro69.github.io:suvvia:andiamo#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:Sbangro69.github.io:suvvia:andiamo#key-1"
+  ]
+}
