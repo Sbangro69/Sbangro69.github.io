@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/jws-2020/v1"
+  ],
+  "id": "did:web:Sbangro69.github.io:ius:mine",
+  "verificationMethod": [
+    {
+      "id": "did:web:Sbangro69.github.io:ius:mine#key-1",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:Sbangro69.github.io:ius:mine",
+      "publicKeyJwk": {
+        "e": "AQAB",
+        "kid": "XnEzFHe16Xxg33YEvlGgNTprVXok_jLKQUJLwmpPxoY",
+        "kty": "RSA",
+        "n": "tV6hPx2pFH9B-RjexaGpYAJ4rj1k_Th6e1XWGJSotfICVLKtZmEemkrqWKNhdMTeuCbjXJr8u5Y7g0EQG_1xStj-q4yFAGsDaufMljJTirMzQa8pDG20dwt2Fpd2c5AABwvKUEnx7JK5wlSmXa3AZw2ZYC8d4yA-jjv_z2N2naPYIb2IQ7TdanPdxw9T_mP-TsQdCOgkQUC9AuCHpxZsohOUU9WJfMgKAxAxC76aWcN6vq3Mdj0e4QCs9SzviYqAPq0OQLG-0S9lntdCHnZ1zfA3ODzZoSMbgoc58Y41GqRql825thLJnPf_1L5r10MNLXqiEXGyaGm4zLxGsEJNzw"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:Sbangro69.github.io:ius:mine#key-1"
+  ],
+  "assertionMethod": [
+    "did:web:Sbangro69.github.io:ius:mine#key-1"
+  ]
+}
