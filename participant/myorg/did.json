@@ -11,9 +11,9 @@
       "controller": "did:web:Sbangro69.github.io:participant:myorg",
       "publicKeyJwk": {
         "e": "AQAB",
-        "kid": "Sp5W_62JkVJVyGNN2MmL919EjbvFhiIJnhzaem1OR1A",
+        "kid": "u5ADsN2CvXLwm0expCakO-k9ba2t4CYMCJ57KUfhzaY",
         "kty": "RSA",
-        "n": "yI3CkfEmcFpHegmCF9l7BTRfxnFxrO2GzeWQAthAP9UvbucmA6O2qkpr0m1UlYZTmWEFaQJwzbRsWo0HSsgGDEAy2SBKuxnRxw2qqFkSU_ZZS4zDYyaLSjrDtrLFDb2KPrZpMi6JQxpWeqi2CqADBPekAK5Wg9sqYaoqikL2CwOpgdCKiE8TeBD_IcPvDC4LGK1b431S2AnLBakugrDCmbCDUQlvTQxASOAL4CPNkOj4lMKfZP-MKxKD61AfRyOxPA0ULT7h0-X36FagkELR69DIW8wJeSO9jzfPmGrlvxJhZAAIvzrTP48Ow_6r_vsKCGlvCLQYdOuIWyIxWgFSQQ"
+        "n": "t7RQb4I6M2TRzNcPypHfrymj89TjYZci-MrcSipiOo2uYFm5z3np0MmHvsF9PAxZWuO2RYEYXrMcwjtFSq4-wDsgwSGTiU0ofhsNqJc0ZTs3bMekH4PmPUxvzeHhgx--nPikb0H9NlSMYqgXOd_irez_QdzKmaOyF-0nhLuE767VgdkCU1a9VSKqBQMSqWo7w3i4VBepXhpLalW3m4l3SoFRG6cY7dFEoHSjpW_59f0as7IAQFHmUhCQaJw0msJXIqHZjV7fmZJbe8sxymaB8SB88m-z2_5SyiSP_ivy4ZgXFeISaq5sOzRRZtO2cB8mHEJIuLdYbF2BrWHPDFpcPw"
       }
     }
   ],
